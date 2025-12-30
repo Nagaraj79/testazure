@@ -401,6 +401,12 @@
 				"policy": {
 					"elapsedTimeMetric": {}
 				},
+				"parameters": {
+					"containername": {
+						"type": "string",
+						"defaultValue": "containerdemo"
+					}
+				},
 				"annotations": []
 			},
 			"dependsOn": [
