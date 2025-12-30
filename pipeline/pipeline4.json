@@ -148,6 +148,12 @@
 				}
 			}
 		],
+		"parameters": {
+			"containername": {
+				"type": "string",
+				"defaultValue": "containerdemo"
+			}
+		},
 		"annotations": []
 	}
 }
